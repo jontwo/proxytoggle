@@ -1,0 +1,12 @@
+ProxyToggle
+===========
+
+This extension adds a button to your toolbar that toggles the localhost proxy 
+on and off. Just drag the .xpi file into Firefox and click Install when
+the dialog appears.
+
+After you have set up manual proxy configuration, ProxyToggle will switch
+between system and manual proxy settings. 
+
+You can also use the keyboard shortcut ctrl-alt-T instead of clicking the
+toolbar button.
